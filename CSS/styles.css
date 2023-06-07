@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+h1 {margin: 0 auto;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 5rem;
+    color: #cf6d4c;
+    line-height: 2;
+      
+    
+
+}
+h2 {font-family: 'Mochiy Pop P One', sans-serif;
+    color: #cf6d4c;
+    font-weight: normal;
+
+}
+h3 {font-family: 'Mochiy Pop P One', sans-serif;
+    color: #cf6d4c;
+
+}
+.top-container{
+    background-color: #91c3df;
+    margin: 0px;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.top-cloud{
+    position:absolute;
+    right: 230px;
+    top:50px;
+
+}
+.bottom-cloud {
+    position: absolute;
+    top:130px;
+    left: 160px;
+}
+.introduction{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2.5rem;
+}
+#picme{
+    border-radius: 10%;
+    height: 300px;
+    width: 300px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width:55%;
+    text-align: left;
+    padding-left: 100px;
+    
+    line-height: 2;
+}
+.skillspic1 {
+    
+    width:25%;
+    float: left;
+    margin-right: 10px;
+}
+.skillspic2 {
+    width:25%;
+    float: right;
+    margin-right: 100px;
+}
+
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 0px 1px 3px #616161;
+    -moz-box-shadow: 0px 1px 3px #616161;
+    box-shadow: 0px 1px 3px #616161;
+    font-family:'Mochiy Pop P One', sans-serif ;
+    color: #f0e4f0;
+    font-size: 21px;
+    background: #d9a534;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    bottom: 1px;
+  }
+  
+  .btn:hover {
+    background: #e6933a;
+    background-image: -webkit-linear-gradient(top, #e6933a, #547a94);
+    background-image: -moz-linear-gradient(top, #e6933a, #547a94);
+    background-image: -ms-linear-gradient(top, #e6933a, #547a94);
+    background-image: -o-linear-gradient(top, #e6933a, #547a94);
+    background-image: linear-gradient(to bottom, #e6933a, #547a94);
+    text-decoration: none;
+  }
+
+  .footer-link {
+    position: relative;
+    top:10px;
+  }
+
+  hr{
+    border: dotted#4bd5d5 6px;
+    border-bottom: none;
+    width:5%;
+    size:200px;
+    margin: 100px auto 100px auto;
+  }
+  .bottom-container{
+    background-color: #91c3df;
+    Height:70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+  }
+  .gcashpls {
+    padding-bottom: 10px;
+  }
+  a{
+    color: rgb(102, 120, 120);
+    font-family: 'Anton', sans-serif;
+    margin:10px 15px;
+    text-decoration: none;
+
+}
+a:hover{
+    color: aliceblue;
+}
+  
+.contact-me{
+    padding-top:10px;
+    padding-bottom:100px;
+}
+.trademark {
+    color: aliceblue;
+    font-size: 0.70rem;
+    padding: 7px 0;
+}
